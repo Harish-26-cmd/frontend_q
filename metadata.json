@@ -1,0 +1,6 @@
+{
+  "name": "Q-Free",
+  "description": "Q-Free is an AI-powered queue management system to streamline customer flow and provide intelligent wait time predictions. This application offers a dashboard to monitor multiple queues, manage individuals, and leverage simulated AI for service time forecasting.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
